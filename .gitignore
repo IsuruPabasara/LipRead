@@ -1,0 +1,7 @@
+# ignore ALL video
+data/
+graydata/
+croppeddata/
+words/
+models/
+modelsn/
